@@ -1,6 +1,7 @@
-# HTML Basics
-    More Info -- https://btholt.github.io/intro-to-web-dev-v2/
-    
+# HTML Basics 
+
+--More Info -- https://btholt.github.io/intro-to-web-dev-v2/!
+
 ## Types of Tags
 
 1. **Headlines** - h1 - h6
